@@ -1,5 +1,9 @@
 \documentclass{beamer}
 \usetheme{Boadilla}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\setbeameroption{show notes}
 
 \title{Secure Compression and Pattern Matching Based on Burrows-Wheeler Transform}
 \author{Raffaele Ceruso Giovanni Leo}
@@ -11,7 +15,103 @@
 	\titlepage
 \end{frame}
 \begin{frame}
-\frametitle{Title}
-Prova
+\frametitle{Idea}
+	\begin{itemize}
+		\item Le “compressed data structure” permettono di creare una indicizzazione di grandi dataset in maniera efficiente. Tali strutture dati dovranno essere sicuramente memorizzate in qualche server di terze parti come ad esempio il cloud, questo però porta sicuramente problemi di privacy. 
+		\item L’ idea quindi é quella di costruire una variante di tali strutture più sicura, basata sulla trasformata di Burrows-Wheeler, e che sia in grado anche di eseguire il pattern matching.
+	\end{itemize}
 \end{frame}
+\begin{frame}
+\frametitle{Introduzione - 1}
+	\begin{itemize}
+	 \item La compressione dati non solo riduce lo spazio occupato dai file ma serve anche a migliorare la velocità di trasmissione in alcuni protocolli.
+	 
+	 \item Essendo in era in cui i dati sono diventati veramente importanti di conseguenza anche la compressione di tali dati è diventata sempre più necessaria.
+	 
+	 \item Gli autori del paper si sono focalizzati sull’utilizzo di algoritmi di compressione, i quali non solo supportano una compressione di tipo lossless ma che garantiscono anche sicurezza.
+	 
+	 \item Il pattern matching è una operazione fondamentale nel processing delle stringhe che permette di trovare tutte le occorrenze di un dato pattern in un dato testo.
+	 \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Introduzione - 2}
+	\begin{itemize}
+		\item Il pattern matching si vuole applicare anche ai file compressi
+		
+		\item Una possibile strategia potrebbe essere quella di decomprimere il file e cercare sul file decompresso ma tale strategia è poco efficiente.
+		
+		\item Un approccio migliore sarebbe quello di ricercare direttamente sul file compresso 
+		\item Per fare ciò abbiamo bisogno di indici di dati compressi i quali vengono salvati in server di terze parti causando problemi di privacy. 
+		
+		\item Una semplice soluzione potrebbe essere quella di di comprimere e poi cifrare i dati ma tale soluzione è stata dimostrata non tanto sicura.
+		
+		\item Una altra soluzione potrebbe essere quella di integrare compressione e cifratura in un unico passo ma anche questa soluzione presenta problemi di sicurezza.
+		
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Introduzione - 3}
+	\begin{itemize}
+		\item La soluzione proposta dagli autori si basa sulla trasformata di Burrows-Wheeler. Oltre la compressione tale trasformata può essere utilizzata anche per eseguire la ricerca. Se consideriamo due tabelle che forniscono un certo tipo di informazioni come per esempio la frequenza dei simboli e le posizioni, la trasformata permette di estrarre le sottostringhe che matchano i pattern in modo semplice.
+		
+		\item Gli autori in questo paper forniscono un ``secure compression algorithm'' e un “secure compressed pattern matching”, entrambi basata sulla BWT. Inoltre viene uno schema di cifratura omomorfico additivo per proteggere gli indici dei dati compressi e per sfruttare le potenzialità del cloud. Per ottenere i dati dal server viene utilizzato il ``Private Information Retrival Read''(PIR\_Read).
+		
+	\end{itemize}
+\end{frame}
+\note[itemize]{
+	\item La crittografia omomorfica è una forma di crittografia che consente il calcolo su testi cifrati(In questo caso la somma), generando un risultato crittografato che, decodificato, corrisponde al risultato delle operazioni come se fossero state eseguite sul testo in chiaro.
+	\item PIR\_Read: un modo privato per ottenere dati dal server
+}
+\begin{frame}
+
+\end{frame}
+
+\begin{frame}
+
+\end{frame}
+
+\begin{frame}
+
+\end{frame}
+
+\begin{frame}
+
+\end{frame}
+
+\begin{frame}
+
+\end{frame}
+
+\begin{frame}
+
+\end{frame}
+
+\begin{frame}
+
+\end{frame}
+
+
+\begin{frame}
+
+\end{frame}
+
+\begin{frame}
+
+\end{frame}
+
+
+\begin{frame}
+
+\end{frame}
+
+\begin{frame}
+
+\end{frame}
+
+\begin{frame}
+
+\end{frame}
+
 \end{document}
