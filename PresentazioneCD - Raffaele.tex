@@ -1,5 +1,10 @@
 \documentclass{beamer}
 \usetheme{Boadilla}
+\usepackage{sansmathaccent}
+\pdfmapfile{+sansmathaccent.map}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{amsfonts}
 
 \title{Secure Compression and Pattern Matching Based on Burrows-Wheeler Transform}
 \author{Raffaele Ceruso Giovanni Leo}
@@ -11,7 +16,80 @@
 	\titlepage
 \end{frame}
 \begin{frame}
-\frametitle{Title}
-Prova
+\frametitle{Protocollo}
+Il protocollo prevede le seguenti fasi:
+
+\textbf{Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
+
+\begin{itemize}
+	\item \textit{superblock}:
+	
+	scegli un primo $ p_{1} $ leggermente più grande
+	di n = L2, un numero diverso da zero $ \beta_{1} $ e scegli un generatore
+	$g_{1}$ di $ Z^{*}_{p_{1}} $. Il client mantiene $ g_{1} \beta_{1} $ segreti. Per \textit{superblock} $ i $, memorizziamo quei dati nel $ (g^{i}_{1}\beta_{1})^{th} mod$ $p_{1}$
+	(omettiamo $mod$ $ p_{1}$ nella parte restante) della tabella.
+	Per le entries vuote inseriamo alcuni numeri casuali.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Protocollo}
+Il protocollo prevede le seguenti fasi:
+
+\textbf{Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
+
+\begin{itemize}
+	\item \textit{block}:
+	
+	scegli un primo $ p_{2} $ che è poco più grande di $n/L^{2}$,
+	un numero diverso da zero $ \beta_{2} $ e scegli un generatore $g_{2}$ di $ Z^{*}_{p_{2}} $.
+	Il client mantiene $ g_{2} \beta_{2} $ segreti. Per \textit{block} $ i $, memorizziamo quei dati nel $ (g^{i}_{2}\beta_{2})^{th} mod$ $p_{2}$
+	(omettiamo $mod$ $ p_{2}$ nella parte restante) della tabella.
+	Per le entries vuote inseriamo alcuni numeri casuali.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Protocollo}
+Il protocollo prevede le seguenti fasi:
+
+\textbf{Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
+
+\begin{itemize}
+	\item \textit{Hash\_value}:
+	
+	Invece di memorizzare immagini di \textit{MTF}
+	tabelle, memorizziamo il valore hash di $ (i-1)^{th} $ block
+	per il blocco $ (i)^{th} $. Il valore hash di $ (i-1)^{th} $ block
+	è memorizzato nella $ (g^{i}_{2}\beta_{2})^{th}$ entry della tabella $Hash_value$ .
+	Per le entries vuote inseriamo alcuni numeri casuali.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Protocollo}
+Il protocollo prevede le seguenti fasi:
+
+\textbf{Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
+
+\begin{itemize}
+	\item \textit{Block\_inner}:
+	
+
+	La riga \textit{Block\_inner}($mtf[i],BZ_{i}, e, h-L*i$) viene spostato su \textit{Block\_inner}\textit{(Hash\_value}[$g^{i}_{2}\beta_{2}], BZ_{g^{i}{\beta_{2}}}, e, \tau(key, h-L*i))$
+	dove $i = \lfloor h/L\rfloor$ e $\tau$ : $Z_{L} $ $\rightarrow$ $Z_{L} $ è una funzione di permutazione casuale.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Protocollo}
+Il protocollo prevede le seguenti fasi:
+
+\textbf{Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
+
+
+	
+	Pertanto, per calcolare $occ(e, h)$, il client deve inviare un vettore di posizione $pv(h) = (g_{1}^{h/L^{2}} \beta_{1}, g_{2}^{h/L} \beta_{2}, \tau(key, h-[h/L] * L) )$ al server. Così abbiamo $occ(e,h) = superblock(e,g_{1}^{h/L^{2}} \beta_{1}) + block(e,g_{2}^{h/L} \beta_{2}) +$ block\_inner(Hash\_value[$g_{2}^{h/L} \beta_{2},$], $BZ_{(g2)^{h/L}}\beta_{2}, e, \tau(key, h-\lfloor h/L\rfloor * L)$
+	
+	Confrontando il blocco interno qui con quello introdotto nella sezione
+	II-B, sappiamo che $BZ_{\lfloor h/L \rfloor}$ viene spostato in $BZ_{g_{2}^{\lfloor h/L \rfloor}_{\beta_{2}}}$
+
+
 \end{frame}
 \end{document}
