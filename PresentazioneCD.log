@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.4.7)  24 NOV 2018 20:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.4.7)  25 NOV 2018 11:19
 entering extended mode
 **./PresentazioneCD.tex
 (PresentazioneCD.tex
@@ -667,19 +667,130 @@ ault.sty
 )
 (C:\Users\johnn\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerouterthemedef
 ault.sty)))
-(C:\Users\johnn\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerthemeBoadilla
-.sty
-(C:\Users\johnn\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamercolorthemeros
-e.sty)
-(C:\Users\johnn\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerinnerthemerou
-nded.sty)
-(C:\Users\johnn\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamercolorthemedol
-phin.sty)
-(C:\Users\johnn\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerouterthemeinf
-olines.sty)) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamerthememetro
+polis.sty"
+Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\pgfopts\pgfopts.sty"
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
+\pgfopts@list@add@a@toks=\toks43
+\pgfopts@list@add@b@toks=\toks44
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamerinnertheme
+metropolis.sty"
+Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count155
+\calc@Bcount=\count156
+\calc@Adimen=\dimen190
+\calc@Bdimen=\dimen191
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count157
+\calc@Cskip=\skip59
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box53
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
+sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen192
+\pgf@nodesepend=\dimen193
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
+sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+\pgffor@iter=\dimen194
+\pgffor@skip=\dimen195
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
+code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count158
+\pgfplotmarksize=\dimen196
+)
+\tikz@lastx=\dimen197
+\tikz@lasty=\dimen198
+\tikz@lastxsaved=\dimen199
+\tikz@lastysaved=\dimen256
+\tikzleveldistance=\dimen257
+\tikzsiblingdistance=\dimen258
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count159
+\tikznumberofchildren=\count160
+\tikznumberofcurrentchild=\count161
+\tikz@fig@count=\count162
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count163
+\pgfmatrixcurrentcolumn=\count164
+\pgf@matrix@numberofcolumns=\count165
+)
+\tikz@expandcount=\count166
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
+librarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+\metropolis@titleseparator@linewidth=\skip60
+\metropolis@progressonsectionpage=\skip61
+\metropolis@progressonsectionpage@linewidth=\skip62
+\metropolis@blocksep=\skip63
+\metropolis@blockadjust=\skip64
+\metropolis@parskip=\skip65
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beameroutertheme
+metropolis.sty"
+Package: beamerouterthememetropolis 2017/01/23 Metropolis outer theme
+\metropolis@frametitle@padding=\skip66
+\metropolis@progressinheadfoot=\skip67
+\metropolis@progressinheadfoot@linewidth=\skip68
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamercolortheme
+metropolis.sty"
+Package: beamercolorthememetropolis 2017/01/23 Metropolis color theme
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamerfontthemem
+etropolis.sty"
+Package: beamerfontthememetropolis 2017/01/23 Metropolis font theme
+
+
+Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaL
+aTeX to use the Fira fonts on input line 95.
+
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks43
-\inpenc@posthook=\toks44
+\inpenc@prehook=\toks47
+\inpenc@posthook=\toks48
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
@@ -1024,19 +1135,6 @@ sansmathaccent/sansmathaccent.map): fontmap entry for `mathkerncmssi17' already
 } ("C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
 Package: mathtools 2017/05/24 v1.19 mathematical typesetting tools
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count155
-\calc@Bcount=\count156
-\calc@Adimen=\dimen190
-\calc@Bdimen=\dimen191
-\calc@Askip=\skip57
-\calc@Bskip=\skip58
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count157
-\calc@Cskip=\skip59
-)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
@@ -1044,15 +1142,15 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count158
-\l_MT_multwidth_dim=\dimen192
-\origjot=\skip60
-\l_MT_shortvdotswithinadjustabove_dim=\dimen193
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen194
-\l_MT_above_intertext_sep=\dimen195
-\l_MT_below_intertext_sep=\dimen196
-\l_MT_above_shortintertext_sep=\dimen197
-\l_MT_below_shortintertext_sep=\dimen198
+\g_MT_multlinerow_int=\count167
+\l_MT_multwidth_dim=\dimen259
+\origjot=\skip69
+\l_MT_shortvdotswithinadjustabove_dim=\dimen260
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen261
+\l_MT_above_intertext_sep=\dimen262
+\l_MT_below_intertext_sep=\dimen263
+\l_MT_above_shortintertext_sep=\dimen264
+\l_MT_below_shortintertext_sep=\dimen265
 )
 (PresentazioneCD.aux)
 \openout1 = `PresentazioneCD.aux'.
@@ -1080,14 +1178,14 @@ LaTeX Font Info:    ... okay on input line 19.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=342.2953pt
+* \textwidth=307.28987pt
 * \textheight=244.6939pt
-* \oddsidemargin=-61.31996pt
-* \evensidemargin=-61.31996pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -1108,17 +1206,17 @@ LaTeX Font Info:    ... okay on input line 19.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count159
-\scratchdimen=\dimen199
-\scratchbox=\box53
-\nofMPsegments=\count160
-\nofMParguments=\count161
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count162
-\MPscratchDim=\dimen256
-\MPnumerator=\count163
-\makeMPintoPDFobject=\count164
-\everyMPtoPDFconversion=\toks46
+\scratchcounter=\count168
+\scratchdimen=\dimen266
+\scratchbox=\box58
+\nofMPsegments=\count169
+\nofMParguments=\count170
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count171
+\MPscratchDim=\dimen267
+\MPnumerator=\count172
+\makeMPintoPDFobject=\count173
+\everyMPtoPDFconversion=\toks50
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1133,7 +1231,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box54
+\AtBeginShipoutBox=\box59
 Package hyperref Info: Link coloring OFF on input line 19.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
@@ -1142,7 +1240,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count165
+\c@section@level=\count174
 )
 LaTeX Info: Redefining \ref on input line 19.
 LaTeX Info: Redefining \pageref on input line 19.
@@ -1228,15 +1326,140 @@ Dictionary: translator-numbers-dictionary, Language: English
 ("C:\Program Files\MiKTeX 2.9\tex\latex\translator\translator-theorem-dictionar
 y-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
-) (PresentazioneCD.nav) [1
+) (PresentazioneCD.nav)
+Overfull \vbox (44.55656pt too high) detected at line 22
+ []
 
-] [2
+<Immagini/logoUnisa.png, id=12, 351.3125pt x 351.3125pt>
+File: Immagini/logoUnisa.png Graphic file (type png)
 
-] [3
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 22.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [1
 
-] [4
+ <./Immagini/logoUnisa.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 29.
 
-] [5
+LaTeX Font Info:    No file OMScmss.fd. on input line 29.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 29.
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 29.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [2
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 29.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [3
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 41.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [4
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 41.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [5
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 41.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [6
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 41.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [7
+
+]
+Overfull \vbox (28.9821pt too high) detected at line 58
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 58.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [8
+
+]
+Overfull \vbox (28.9821pt too high) detected at line 58
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 58.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [9
+
+]
+Overfull \vbox (28.9821pt too high) detected at line 58
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 58.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [10
+
+]
+Overfull \vbox (28.9821pt too high) detected at line 58
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 58.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [11
+
+]
+Overfull \vbox (28.9821pt too high) detected at line 58
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 58.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [12
+
+]
+Overfull \vbox (13.9505pt too high) detected at line 68
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 68.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [13
+
+]
+Overfull \vbox (13.9505pt too high) detected at line 68
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 68.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [14
 
 ]
 LaTeX Font Info:    Try loading font information for U+msa on input line 84.
@@ -1256,72 +1479,456 @@ line 84.
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-[6
+File: Immagini/logoUnisa.png Graphic file (type png)
 
-] <Immagini/BWTExample.png, id=178, 675.12225pt x 402.90524pt>
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 84.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [15
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 84.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [16
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 84.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [17
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 84.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [18
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 84.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [19
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 84.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [20
+
+]
+<Immagini/BWTExample.png, id=124, 675.12225pt x 402.90524pt>
 File: Immagini/BWTExample.png Graphic file (type png)
 
 <use Immagini/BWTExample.png>
 Package pdftex.def Info: Immagini/BWTExample.png used on input line 93.
 (pdftex.def)             Requested size: 303.8022pt x 181.30568pt.
- [7
 
- <./Immagini/BWTExample.png>] [8
+Overfull \vbox (13.14413pt too high) detected at line 93
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 93.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [21
+
+ <./Immagini/BWTExample.png>]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 101.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [22
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 101.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [23
 
 ]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 109.
 
-[9
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 109.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [24
 
-] <Immagini/MTFExample.png, id=261, 347.49825pt x 251.13824pt>
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 109.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [25
+
+]
+<Immagini/MTFExample.png, id=152, 347.49825pt x 251.13824pt>
 File: Immagini/MTFExample.png Graphic file (type png)
 
 <use Immagini/MTFExample.png>
 Package pdftex.def Info: Immagini/MTFExample.png used on input line 122.
 (pdftex.def)             Requested size: 173.74869pt x 125.56882pt.
- [10
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 122.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [26
 
  <./Immagini/MTFExample.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 130
-.
-LaTeX Font Info:    No file OMScmss.fd. on input line 130.
+File: Immagini/MTFExample.png Graphic file (type png)
+ <use Immagini/MTFExample.png>
+Package pdftex.def Info: Immagini/MTFExample.png used on input line 122.
+(pdftex.def)             Requested size: 173.74869pt x 125.56882pt.
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 122.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
 
-
-LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 130.
-
-[11
-
-] [12
-
-] [13
+[27
 
 ]
-File: Immagini/BWTExample.png Graphic file (type png)
- <use Immagini/BWTExample.png>
-Package pdftex.def Info: Immagini/BWTExample.png used on input line 167.
-(pdftex.def)             Requested size: 101.26396pt x 60.43317pt.
- [14
-
-] [15
-
-] [16
-
-] [17
-
-] [18
-
-] [19
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 130.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [28
 
 ]
-[20
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 130.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [29
 
-] [21
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
 
-] [22
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 139.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [30
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 139.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [31
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 150.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [32
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 150.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [33
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 150.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [34
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 159.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [35
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 159.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [36
+
+]
+<Immagini/BWTExample.PNG, id=214, 675.12225pt x 402.90524pt>
+File: Immagini/BWTExample.PNG Graphic file (type png)
+
+<use Immagini/BWTExample.PNG>
+Package pdftex.def Info: Immagini/BWTExample.PNG used on input line 170.
+(pdftex.def)             Requested size: 202.53824pt x 120.8725pt.
+
+Overfull \vbox (28.03029pt too high) detected at line 170
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 170.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [37
+
+ <./Immagini/BWTExample.PNG>]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 178.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [38
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 178.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [39
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 185.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [40
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 193.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [41
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 193.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [42
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 201.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [43
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 201.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [44
+
+]
+Overfull \vbox (4.87743pt too high) detected at line 215
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 215.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [45
+
+]
+Overfull \vbox (4.87743pt too high) detected at line 215
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 215.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [46
+
+]
+Overfull \vbox (4.87743pt too high) detected at line 215
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 215.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [47
+
+]
+Overfull \vbox (4.87743pt too high) detected at line 215
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 215.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [48
+
+]
+Overfull \vbox (4.87743pt too high) detected at line 215
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 215.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [49
+
+]
+Overfull \vbox (4.87743pt too high) detected at line 215
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 215.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [50
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 224.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [51
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 224.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [52
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 237.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [53
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 237.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [54
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 237.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [55
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 237.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [56
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 237.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [57
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 245.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [58
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 245.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [59
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 245.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [60
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 259.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [61
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 259.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [62
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 259.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [63
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 259.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [64
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 259.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [65
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 268.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [66
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 268.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [67
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 268.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [68
 
 ]
 \tf@nav=\write6
@@ -1333,11 +1940,11 @@ Package pdftex.def Info: Immagini/BWTExample.png used on input line 167.
 \tf@snm=\write8
 \openout8 = `PresentazioneCD.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
  (PresentazioneCD.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 274.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 274.
 Package rerunfilecheck Info: File `PresentazioneCD.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1346,29 +1953,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18014 strings out of 493323
- 339915 string characters out of 3139067
- 414838 words of memory out of 3000000
- 21086 multiletter control sequences out of 15000+200000
- 15484 words of font info for 56 fonts, out of 3000000 for 9000
+ 21237 strings out of 493323
+ 418061 string characters out of 3139067
+ 486306 words of memory out of 3000000
+ 24158 multiletter control sequences out of 15000+200000
+ 16379 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,57p,803b,663s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Navigation23} has been referenced but does not ex
-ist, replaced by a fixed one
-
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-sy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on PresentazioneCD.pdf (22 pages, 338599 bytes).
+ 71i,15n,88p,1820b,547s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy8.pfb>
+Output written on PresentazioneCD.pdf (68 pages, 463702 bytes).
 PDF statistics:
- 657 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 500000)
- 59 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 444 PDF objects out of 1000 (max. 8388607)
+ 137 named destinations out of 1000 (max. 500000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
