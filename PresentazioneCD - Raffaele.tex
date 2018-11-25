@@ -5,6 +5,7 @@
 \usepackage{mathtools}
 \usepackage{amsmath}
 \usepackage{amsfonts}
+\usepackage[utf8]{inputenc}
 
 \title{Secure Compression and Pattern Matching Based on Burrows-Wheeler Transform}
 \author{Raffaele Ceruso Giovanni Leo}
@@ -19,7 +20,7 @@
 \frametitle{Protocollo}
 Il protocollo prevede le seguenti fasi:
 
-\textbf{Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
+\textbf{$(1)$ Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
 
 \begin{itemize}
 	\item \textit{superblock}:
@@ -35,7 +36,7 @@ Il protocollo prevede le seguenti fasi:
 \frametitle{Protocollo}
 Il protocollo prevede le seguenti fasi:
 
-\textbf{Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
+\textbf{$(1)$ Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
 
 \begin{itemize}
 	\item \textit{block}:
@@ -51,14 +52,14 @@ Il protocollo prevede le seguenti fasi:
 \frametitle{Protocollo}
 Il protocollo prevede le seguenti fasi:
 
-\textbf{Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
+\textbf{$(1)$ Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
 
 \begin{itemize}
 	\item \textit{Hash\_value}:
 	
 	Invece di memorizzare immagini di \textit{MTF}
 	tabelle, memorizziamo il valore hash di $ (i-1)^{th} $ block
-	per il blocco $ (i)^{th} $. Il valore hash di $ (i-1)^{th} $ block
+	per il blocco $ i^{th} $. Il valore hash di $ (i-1)^{th} $ block
 	è memorizzato nella $ (g^{i}_{2}\beta_{2})^{th}$ entry della tabella $Hash_value$ .
 	Per le entries vuote inseriamo alcuni numeri casuali.
 \end{itemize}
@@ -67,7 +68,7 @@ Il protocollo prevede le seguenti fasi:
 \frametitle{Protocollo}
 Il protocollo prevede le seguenti fasi:
 
-\textbf{Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
+\textbf{$(1)$ Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
 
 \begin{itemize}
 	\item \textit{Block\_inner}:
@@ -81,15 +82,40 @@ Il protocollo prevede le seguenti fasi:
 \frametitle{Protocollo}
 Il protocollo prevede le seguenti fasi:
 
-\textbf{Inizializzazione.} Il client genera le strutture dati \textit{c} e \textit{occ}. \textit{occ} è generata nel seguente modo.
-
-
+\textbf{$(1)$ Inizializzazione.}
+	Pertanto, per calcolare $occ(e, h)$, il client deve inviare un vettore di posizione $pv(h) = (g_{1}^{h/L^{2}} \beta_{1}, g_{2}^{h/L} \beta_{2}, \tau(key, h-[h/L] * L) )$ al server.\\ 
 	
-	Pertanto, per calcolare $occ(e, h)$, il client deve inviare un vettore di posizione $pv(h) = (g_{1}^{h/L^{2}} \beta_{1}, g_{2}^{h/L} \beta_{2}, \tau(key, h-[h/L] * L) )$ al server. Così abbiamo $occ(e,h) = superblock(e,g_{1}^{h/L^{2}} \beta_{1}) + block(e,g_{2}^{h/L} \beta_{2}) +$ block\_inner(Hash\_value[$g_{2}^{h/L} \beta_{2},$], $BZ_{(g2)^{h/L}}\beta_{2}, e, \tau(key, h-\lfloor h/L\rfloor * L)$
-	
-	Confrontando il blocco interno qui con quello introdotto nella sezione
-	II-B, sappiamo che $BZ_{\lfloor h/L \rfloor}$ viene spostato in $BZ_{g_{2}^{\lfloor h/L \rfloor}_{\beta_{2}}}$
-
-
+	Pertanto l'algoritmo è Algo = sBWT + bMTF + RLE + PC +P dove P è la permutazione. Dopo aver criptato i dati in $occ$ con AHE il client li invia al server il quale mantiene $c$. Successivamente sceglie un numero adeguato R come round di comunicazione.
 \end{frame}
+
+\begin{frame}
+\frametitle{Protocollo}
+Il protocollo prevede le seguenti fasi:\\
+\textbf{$(2)$ Client:} invia un vettore posizione $pos$ e legge il vettore $V$ in accordo di $P[i-1]$
+\end{frame}
+
+\begin{frame}
+\frametitle{Protocollo}
+Il protocollo prevede le seguenti fasi:\\
+\textbf{$(3)$ Server:} per ogni carattere dell'alfabeto e del $y^{th}$ vettore in $pos$, computa $B_{y}[\zeta]$ e ritorna ${a_{y}}_{y\in[1,4]}$
+\end{frame}
+
+\begin{frame}
+\frametitle{Protocollo}
+Il protocollo prevede le seguenti fasi:\\
+\textbf{$(4)$ Client:} trova l'aspettato $a_{i1}$, $a_{i2}$ $\in {a_{y}}_{y\in[1,4]} $ e computa
+\begin{itemize}
+	\item $occ(P[i-1], begin-1)$
+	\item $occ(P[i-1], end)$
+	\item $begin$
+	\item $end$
+\\	Se $begin \leq end$ e $i \geq 2 $ vai allo step 2, altrimenti invia $pos$ al server. Se il round di comunicazione è $R$ vai al prossimo step.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Protocollo}
+\textbf{$(5)$ Client:} se $end < begin$ il pattern non è stato trovato, altrimenti l'occorrenza del pattern è $end - begin +1$
+\end{frame}
+
 \end{document}
