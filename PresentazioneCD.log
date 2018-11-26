@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.4.7)  26 NOV 2018 10:44
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.9)  26 NOV 2018 10:36
+>>>>>>> master
 entering extended mode
 **./PresentazioneCD.tex
 (PresentazioneCD.tex
@@ -1334,12 +1338,19 @@ Overfull \vbox (44.55656pt too high) detected at line 36
 File: Immagini/logoUnisa.png Graphic file (type png)
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 36.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [1
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 36. on inpu
+t line 36.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+36.
+[1
+>>>>>>> master
 
- <./Immagini/logoUnisa.png>]
-(PresentazioneCD.toc
+ <./Immagini/logoUnisa.png>] (PresentazioneCD.toc
 Overfull \hbox (1.99994pt too wide) in paragraph at lines 4--4
 []\tencirc r 
  []
@@ -1376,9 +1387,17 @@ Overfull \hbox (1.99994pt too wide) in paragraph at lines 8--8
 
 )
 File: Immagini/logoUnisa.png Graphic file (type png)
+<<<<<<< HEAD
  <use Immagini/logoUnisa.png>
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 40.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+=======
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 40. on inpu
+t line 40.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+40.
+>>>>>>> master
  [2
 
 ] (PresentazioneCD.toc
@@ -1403,9 +1422,17 @@ Overfull \hbox (1.99994pt too wide) in paragraph at lines 8--8
 
 )
 File: Immagini/logoUnisa.png Graphic file (type png)
+<<<<<<< HEAD
  <use Immagini/logoUnisa.png>
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 41.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+=======
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 41. on inpu
+t line 41.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+41.
+>>>>>>> master
  [3
 
 ]
@@ -1420,6 +1447,7 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 
 File: Immagini/logoUnisa.png Graphic file (type png)
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 48.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [4
@@ -1429,145 +1457,22 @@ File: Immagini/logoUnisa.png Graphic file (type png)
  <use Immagini/logoUnisa.png>
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 48.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 48. on inpu
+t line 48.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+48.
+[4
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 48. on inpu
+t line 48.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+48.
+>>>>>>> master
  [5
-
-]
-(PresentazioneCD.toc
-Overfull \hbox (1.99994pt too wide) in paragraph at lines 4--4
-[]\tencirc r 
- []
-
-
-Overfull \hbox (1.99994pt too wide) in paragraph at lines 5--5
-[]\tencirc r 
- []
-
-
-Overfull \hbox (1.99994pt too wide) in paragraph at lines 7--7
-[]\tencirc r 
- []
-
-
-Overfull \hbox (1.99994pt too wide) in paragraph at lines 8--8
-[]\tencirc r 
- []
-
-)
-File: Immagini/logoUnisa.png Graphic file (type png)
- <use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 49.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [6
-
-]
-File: Immagini/logoUnisa.png Graphic file (type png)
- <use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 61.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [7
-
-]
-File: Immagini/logoUnisa.png Graphic file (type png)
-
-<use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 61.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [8
-
-]
-File: Immagini/logoUnisa.png Graphic file (type png)
- <use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 61.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [9
-
-]
-File: Immagini/logoUnisa.png Graphic file (type png)
-
-<use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 61.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [10
-
-]
-Overfull \vbox (28.9821pt too high) detected at line 78
- []
-
-File: Immagini/logoUnisa.png Graphic file (type png)
-<use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [11
-
-]
-Overfull \vbox (28.9821pt too high) detected at line 78
- []
-
-File: Immagini/logoUnisa.png Graphic file (type png)
-<use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [12
-
-]
-Overfull \vbox (28.9821pt too high) detected at line 78
- []
-
-File: Immagini/logoUnisa.png Graphic file (type png)
-<use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [13
-
-]
-Overfull \vbox (28.9821pt too high) detected at line 78
- []
-
-File: Immagini/logoUnisa.png Graphic file (type png)
-<use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [14
-
-]
-Overfull \vbox (28.9821pt too high) detected at line 78
- []
-
-File: Immagini/logoUnisa.png Graphic file (type png)
-<use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [15
-
-]
-Overfull \vbox (28.9821pt too high) detected at line 78
- []
-
-File: Immagini/logoUnisa.png Graphic file (type png)
-<use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [16
-
-]
-Overfull \vbox (13.9505pt too high) detected at line 88
- []
-
-File: Immagini/logoUnisa.png Graphic file (type png)
-<use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 88.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [17
-
-]
-Overfull \vbox (13.9505pt too high) detected at line 88
- []
-
-File: Immagini/logoUnisa.png Graphic file (type png)
-<use Immagini/logoUnisa.png>
-Package pdftex.def Info: Immagini/logoUnisa.png used on input line 88.
-(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
- [18
 
 ] (PresentazioneCD.toc
 Overfull \hbox (1.99994pt too wide) in paragraph at lines 4--4
@@ -1591,6 +1496,236 @@ Overfull \hbox (1.99994pt too wide) in paragraph at lines 8--8
 
 )
 File: Immagini/logoUnisa.png Graphic file (type png)
+<<<<<<< HEAD
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 49.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+=======
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 49. on inpu
+t line 49.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+49.
+>>>>>>> master
+ [6
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<<<<<<< HEAD
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 61.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+=======
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 61. on inpu
+t line 61.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+61.
+>>>>>>> master
+ [7
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+<<<<<<< HEAD
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 61.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 61. on inpu
+t line 61.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+61.
+>>>>>>> master
+ [8
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<<<<<<< HEAD
+ <use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 61.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+=======
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 61. on inpu
+t line 61.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+61.
+>>>>>>> master
+ [9
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+<<<<<<< HEAD
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 61.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 61. on inpu
+t line 61.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+61.
+>>>>>>> master
+ [10
+
+]
+Overfull \vbox (28.9821pt too high) detected at line 78
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+<<<<<<< HEAD
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [11
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 78. on inpu
+t line 78.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+78.
+[11
+>>>>>>> master
+
+]
+Overfull \vbox (28.9821pt too high) detected at line 78
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+<<<<<<< HEAD
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [12
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 78. on inpu
+t line 78.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+78.
+[12
+>>>>>>> master
+
+]
+Overfull \vbox (28.9821pt too high) detected at line 78
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+<<<<<<< HEAD
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [13
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 78. on inpu
+t line 78.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+78.
+[13
+>>>>>>> master
+
+]
+Overfull \vbox (28.9821pt too high) detected at line 78
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+<<<<<<< HEAD
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [14
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 78. on inpu
+t line 78.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+78.
+[14
+>>>>>>> master
+
+]
+Overfull \vbox (28.9821pt too high) detected at line 78
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+<<<<<<< HEAD
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [15
+
+]
+Overfull \vbox (28.9821pt too high) detected at line 78
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 78.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [16
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 78. on inpu
+t line 78.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+78.
+[15
+>>>>>>> master
+
+]
+Overfull \vbox (13.9505pt too high) detected at line 88
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+<<<<<<< HEAD
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 88.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [17
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 88. on inpu
+t line 88.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+88.
+[16
+>>>>>>> master
+
+]
+Overfull \vbox (13.9505pt too high) detected at line 88
+ []
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+<<<<<<< HEAD
+Package pdftex.def Info: Immagini/logoUnisa.png used on input line 88.
+(pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
+ [18
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 88. on inpu
+t line 88.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+88.
+[17
+>>>>>>> master
+
+] (PresentazioneCD.toc
+Overfull \hbox (1.99994pt too wide) in paragraph at lines 4--4
+[]\tencirc r 
+ []
+
+
+Overfull \hbox (1.99994pt too wide) in paragraph at lines 5--5
+[]\tencirc r 
+ []
+
+
+Overfull \hbox (1.99994pt too wide) in paragraph at lines 7--7
+[]\tencirc r 
+ []
+
+
+Overfull \hbox (1.99994pt too wide) in paragraph at lines 8--8
+[]\tencirc r 
+ []
+
+)
+File: Immagini/logoUnisa.png Graphic file (type png)
+<<<<<<< HEAD
  <use Immagini/logoUnisa.png>
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 93.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
@@ -1605,8 +1740,26 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 106.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 93. on inpu
+t line 93.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+93.
+ [18
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 106. on inp
+ut line 106.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+106.
+ [19
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 106.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [21
@@ -1620,8 +1773,25 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 106.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 106. on inp
+ut line 106.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+106.
+ [20
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 106. on inp
+ut line 106.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+106.
+ [21
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 106.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [23
@@ -1640,20 +1810,53 @@ File: Immagini/logoUnisa.png Graphic file (type png)
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 106.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [25
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 106. on inp
+ut line 106.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+106.
+ [22
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 106. on inp
+ut line 106.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+106.
+ [23
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 106. on inp
+ut line 106.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+106.
+ [24
+>>>>>>> master
 
 ]
 <Immagini/BWTExample.png, id=237, 675.12225pt x 402.90524pt>
 File: Immagini/BWTExample.png Graphic file (type png)
 
 <use Immagini/BWTExample.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/BWTExample.png used on input line 115.
 (pdftex.def)             Requested size: 303.8022pt x 181.30568pt.
+=======
+Package pdftex.def Info: Immagini/BWTExample.png  used on input line 115. on in
+put line 115.
+Package pdftex.def Info: Requested size: 303.8022pt x 181.30568pt on input line
+ 115.
+>>>>>>> master
 
 Overfull \vbox (13.14413pt too high) detected at line 115
  []
 
 File: Immagini/logoUnisa.png Graphic file (type png)
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 115.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [26
@@ -1675,8 +1878,114 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 123.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 115. on inp
+ut line 115.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+115.
+[25
+
+ <./Immagini/BWTExample.png>]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 123. on inp
+ut line 123.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+123.
+ [26
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 123. on inp
+ut line 123.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+123.
+ [27
+
+]
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 131.
+
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 131. on inp
+ut line 131.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+131.
+[28
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 131. on inp
+ut line 131.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+131.
+ [29
+
+]
+<Immagini/MTFExample.png, id=259, 347.49825pt x 251.13824pt>
+File: Immagini/MTFExample.png Graphic file (type png)
+<use Immagini/MTFExample.png>
+Package pdftex.def Info: Immagini/MTFExample.png  used on input line 144. on in
+put line 144.
+Package pdftex.def Info: Requested size: 173.74869pt x 125.56882pt on input lin
+e 144.
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 144. on inp
+ut line 144.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+144.
+ [30
+
+ <./Immagini/MTFExample.png>]
+File: Immagini/MTFExample.png Graphic file (type png)
+<use Immagini/MTFExample.png>
+Package pdftex.def Info: Immagini/MTFExample.png  used on input line 144. on in
+put line 144.
+Package pdftex.def Info: Requested size: 173.74869pt x 125.56882pt on input lin
+e 144.
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 144. on inp
+ut line 144.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+144.
+ [31
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 152. on inp
+ut line 152.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+152.
+ [32
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 152. on inp
+ut line 152.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+152.
+ [33
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 161. on inp
+ut line 161.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+161.
+ [34
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 174.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [29
@@ -1690,8 +1999,35 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 174.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 161. on inp
+ut line 161.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+161.
+ [35
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 174. on inp
+ut line 174.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+174.
+ [36
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 174. on inp
+ut line 174.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+174.
+
+[37
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 174.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [31
@@ -1705,33 +2041,73 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 183.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 174. on inp
+ut line 174.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+174.
+ [38
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 183. on inp
+ut line 183.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+183.
+ [39
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 183.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [33
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 183. on inp
+ut line 183.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+183.
+ [40
+>>>>>>> master
 
 ]
 <Immagini/BWTExample.PNG, id=283, 675.12225pt x 402.90524pt>
 File: Immagini/BWTExample.PNG Graphic file (type png)
 
 <use Immagini/BWTExample.PNG>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/BWTExample.PNG used on input line 194.
 (pdftex.def)             Requested size: 202.53824pt x 120.8725pt.
+=======
+Package pdftex.def Info: Immagini/BWTExample.PNG  used on input line 194. on in
+put line 194.
+Package pdftex.def Info: Requested size: 202.53824pt x 120.8725pt on input line
+ 194.
+>>>>>>> master
 
 Overfull \vbox (28.03029pt too high) detected at line 194
  []
 
 File: Immagini/logoUnisa.png Graphic file (type png)
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 194.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [34
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 194. on inp
+ut line 194.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+194.
+[41
+>>>>>>> master
 
  <./Immagini/BWTExample.PNG>]
 File: Immagini/logoUnisa.png Graphic file (type png)
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 202.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [35
@@ -1745,11 +2121,35 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 202.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 202. on inp
+ut line 202.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+202.
+ [42
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 202. on inp
+ut line 202.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+202.
+ [43
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 209.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [37
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 209. on inp
+ut line 209.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+209.
+ [44
+>>>>>>> master
 
 ] (PresentazioneCD.toc
 Overfull \hbox (1.99994pt too wide) in paragraph at lines 4--4
@@ -1773,6 +2173,7 @@ Overfull \hbox (1.99994pt too wide) in paragraph at lines 8--8
 
 )
 File: Immagini/logoUnisa.png Graphic file (type png)
+<<<<<<< HEAD
  <use Immagini/logoUnisa.png>
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 211.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
@@ -1787,8 +2188,26 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 219.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 211. on inp
+ut line 211.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+211.
+ [45
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 219. on inp
+ut line 219.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+219.
+ [46
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 219.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [40
@@ -1802,11 +2221,35 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 227.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 219. on inp
+ut line 219.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+219.
+ [47
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 227. on inp
+ut line 227.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+227.
+ [48
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 227.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [42
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 227. on inp
+ut line 227.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+227.
+ [49
+>>>>>>> master
 
 ]
 
@@ -1819,9 +2262,17 @@ Overfull \vbox (4.87743pt too high) detected at line 241
 
 File: Immagini/logoUnisa.png Graphic file (type png)
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 241.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [43
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 241. on inp
+ut line 241.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+241.
+[50
+>>>>>>> master
 
 ]
 Overfull \vbox (4.87743pt too high) detected at line 241
@@ -1829,9 +2280,17 @@ Overfull \vbox (4.87743pt too high) detected at line 241
 
 File: Immagini/logoUnisa.png Graphic file (type png)
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 241.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [44
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 241. on inp
+ut line 241.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+241.
+[51
+>>>>>>> master
 
 ]
 Overfull \vbox (4.87743pt too high) detected at line 241
@@ -1839,9 +2298,17 @@ Overfull \vbox (4.87743pt too high) detected at line 241
 
 File: Immagini/logoUnisa.png Graphic file (type png)
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 241.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [45
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 241. on inp
+ut line 241.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+241.
+[52
+>>>>>>> master
 
 ]
 Overfull \vbox (4.87743pt too high) detected at line 241
@@ -1849,9 +2316,17 @@ Overfull \vbox (4.87743pt too high) detected at line 241
 
 File: Immagini/logoUnisa.png Graphic file (type png)
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 241.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [46
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 241. on inp
+ut line 241.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+241.
+[53
+>>>>>>> master
 
 ]
 Overfull \vbox (4.87743pt too high) detected at line 241
@@ -1859,9 +2334,17 @@ Overfull \vbox (4.87743pt too high) detected at line 241
 
 File: Immagini/logoUnisa.png Graphic file (type png)
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 241.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [47
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 241. on inp
+ut line 241.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+241.
+[54
+>>>>>>> master
 
 ]
 Overfull \vbox (4.87743pt too high) detected at line 241
@@ -1869,6 +2352,7 @@ Overfull \vbox (4.87743pt too high) detected at line 241
 
 File: Immagini/logoUnisa.png Graphic file (type png)
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 241.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [48
@@ -1882,8 +2366,25 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 250.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 241. on inp
+ut line 241.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+241.
+[55
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 250. on inp
+ut line 250.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+250.
+ [56
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 250.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [50
@@ -1897,8 +2398,25 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 263.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 250. on inp
+ut line 250.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+250.
+ [57
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 263. on inp
+ut line 263.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+263.
+ [58
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 263.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [52
@@ -1912,8 +2430,25 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 263.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 263. on inp
+ut line 263.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+263.
+ [59
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 263. on inp
+ut line 263.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+263.
+ [60
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 263.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [54
@@ -1927,8 +2462,25 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 263.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 263. on inp
+ut line 263.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+263.
+ [61
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 263. on inp
+ut line 263.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+263.
+ [62
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 281.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [56
@@ -1942,8 +2494,25 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 281.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 271. on inp
+ut line 271.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+271.
+ [63
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 271. on inp
+ut line 271.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+271.
+ [64
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 281.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [58
@@ -1957,8 +2526,25 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 295.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 271. on inp
+ut line 271.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+271.
+ [65
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 285. on inp
+ut line 285.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+285.
+ [66
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 295.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [60
@@ -1972,8 +2558,34 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 295.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 285. on inp
+ut line 285.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+285.
+ [67
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 285. on inp
+ut line 285.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+285.
+ [68
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 285. on inp
+ut line 285.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+285.
+ [69
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 295.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [62
@@ -1984,9 +2596,16 @@ File: Immagini/logoUnisa.png Graphic file (type png)
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 295.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [63
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 285. on inp
+ut line 285.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+285.
 
-]
-(PresentazioneCD.toc
+[70
+>>>>>>> master
+
+] (PresentazioneCD.toc
 Overfull \hbox (1.99994pt too wide) in paragraph at lines 4--4
 []\tencirc r 
  []
@@ -2008,6 +2627,7 @@ Overfull \hbox (1.99994pt too wide) in paragraph at lines 8--8
 
 )
 File: Immagini/logoUnisa.png Graphic file (type png)
+<<<<<<< HEAD
  <use Immagini/logoUnisa.png>
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 297.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
@@ -2037,8 +2657,44 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 344.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 287. on inp
+ut line 287.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+287.
+ [71
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 303. on inp
+ut line 303.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+303.
+ [72
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 319. on inp
+ut line 319.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+319.
+ [73
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 334. on inp
+ut line 334.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+334.
+ [74
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 358.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [68
@@ -2052,8 +2708,25 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 367.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 348. on inp
+ut line 348.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+348.
+ [75
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 357. on inp
+ut line 357.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+357.
+ [76
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 373.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [70
@@ -2067,8 +2740,25 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 379.
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 363. on inp
+ut line 363.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+363.
+ [77
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 369. on inp
+ut line 369.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+369.
+ [78
+>>>>>>> master
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 392.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [72
@@ -2079,9 +2769,24 @@ File: Immagini/logoUnisa.png Graphic file (type png)
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 397.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [73
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 382. on inp
+ut line 382.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+382.
+ [79
 
 ]
-(PresentazioneCD.toc
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 387. on inp
+ut line 387.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+387.
+ [80
+>>>>>>> master
+
+] (PresentazioneCD.toc
 Overfull \hbox (1.99994pt too wide) in paragraph at lines 4--4
 []\tencirc r 
  []
@@ -2103,6 +2808,7 @@ Overfull \hbox (1.99994pt too wide) in paragraph at lines 8--8
 
 )
 File: Immagini/logoUnisa.png Graphic file (type png)
+<<<<<<< HEAD
  <use Immagini/logoUnisa.png>
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 399.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
@@ -2114,11 +2820,29 @@ File: Immagini/logoUnisa.png Graphic file (type png)
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 407.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [75
+=======
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 389. on inp
+ut line 389.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+389.
+ [81
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 397. on inp
+ut line 397.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+397.
+ [82
+>>>>>>> master
 
 ]
 File: Immagini/logoUnisa.png Graphic file (type png)
 
 <use Immagini/logoUnisa.png>
+<<<<<<< HEAD
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 407.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [76
@@ -2137,6 +2861,31 @@ File: Immagini/logoUnisa.png Graphic file (type png)
 Package pdftex.def Info: Immagini/logoUnisa.png used on input line 415.
 (pdftex.def)             Requested size: 17.56665pt x 17.56665pt.
  [78
+=======
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 397. on inp
+ut line 397.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+397.
+ [83
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 397. on inp
+ut line 397.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+397.
+ [84
+
+]
+File: Immagini/logoUnisa.png Graphic file (type png)
+<use Immagini/logoUnisa.png>
+Package pdftex.def Info: Immagini/logoUnisa.png  used on input line 405. on inp
+ut line 405.
+Package pdftex.def Info: Requested size: 17.56665pt x 17.56665pt on input line 
+405.
+ [85
+>>>>>>> master
 
 ]
 \tf@nav=\write6
@@ -2148,11 +2897,19 @@ Package pdftex.def Info: Immagini/logoUnisa.png used on input line 415.
 \tf@snm=\write8
 \openout8 = `PresentazioneCD.snm'.
 
+<<<<<<< HEAD
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 416.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 416.
  (PresentazioneCD.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 416.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 416.
+=======
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 406.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 406.
+ (PresentazioneCD.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 406.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 406.
+>>>>>>> master
 Package rerunfilecheck Info: File `PresentazioneCD.out' has not changed.
 (rerunfilecheck)             Checksum: 97BE92E977408CFDFB8E065A9A3E214A;576.
 
@@ -2161,10 +2918,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  21380 strings out of 493323
  420440 string characters out of 3139067
  486373 words of memory out of 3000000
  24258 multiletter control sequences out of 15000+200000
+=======
+ 21355 strings out of 493323
+ 420847 string characters out of 3139066
+ 482065 words of memory out of 3000000
+ 24217 multiletter control sequences out of 15000+200000
+>>>>>>> master
  16379 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,15n,88p,1820b,547s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2179,7 +2943,11 @@ nts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
+<<<<<<< HEAD
 Output written on PresentazioneCD.pdf (78 pages, 479074 bytes).
+=======
+Output written on PresentazioneCD.pdf (85 pages, 531388 bytes).
+>>>>>>> master
 PDF statistics:
  623 PDF objects out of 1000 (max. 8388607)
  167 named destinations out of 1000 (max. 500000)
