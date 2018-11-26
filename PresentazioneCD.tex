@@ -9,17 +9,36 @@
 \usepackage{graphicx}
 %\usefonttheme{serif}
 
-
+%------------Serve per fare vedere le pallucelle e i numeretti nell'indice---------------%
+\setbeamertemplate{section in toc}{%
+	{\inserttocsectionnumber.}~\inserttocsection    \vspace{-.1\baselineskip}}
+\setbeamercolor{subsection in toc}{bg=white,fg=structure}
+\setbeamertemplate{subsection in toc}{%
+	\hspace{0.2cm}{\begin{minipage}[c]{0.1em}\circle*{3}\end{minipage}}~\inserttocsubsection\par}
+\setbeamerfont{subsection in toc}{size=\small}
+%----------------------------------------------------------------------------------------%
 \title[]{Secure Compression and Pattern Matching Based on Burrows-Wheeler Transform}
 \institute{Università degli Studi di Salerno}
 \author{Raffaele Ceruso Giovanni Leo}
 \logo{\includegraphics[scale=0.05]{Immagini/logoUnisa.png}}
 \date{\today}
 
+\AtBeginSection[]
+{
+	\begin{frame}
+	\frametitle{Outline}
+	\tableofcontents[currentsection] 
+	\end{frame}
+}
 \begin{document}
 \begin{frame}
 \titlepage
 \end{frame}
+\begin{frame}
+	\frametitle{Outline}
+	\tableofcontents
+\end{frame}
+\section{Idea}
 \begin{frame}
 \frametitle{Idea}
 	\begin{itemize}
@@ -27,6 +46,7 @@
 		\item L’ idea quindi é quella di costruire una variante di tali strutture più sicura, basata sulla trasformata di Burrows-Wheeler, e che sia in grado anche di eseguire il pattern matching.
 	\end{itemize}
 \end{frame}
+\section{Introduzione}
 \begin{frame}
 \frametitle{Introduzione - 1}
 	\begin{itemize}
@@ -70,6 +90,8 @@
 	\item La crittografia omomorfica è una forma di crittografia che consente il calcolo su testi cifrati(In questo caso la somma), generando un risultato crittografato che, decodificato, corrisponde al risultato delle operazioni come se fossero state eseguite sul testo in chiaro.\pause
 	\item PIR\_Read: un modo privato per ottenere dati dal server
 }
+\section{Preliminari}
+\subsection{BWT and compression}
 \begin{frame}
 \frametitle{Preliminari - 1 - BWT and compression}
 	\begin{itemize}
@@ -138,6 +160,8 @@
 \end{itemize}
 \end{frame}
 
+\subsection{Strutture dati ausiliarie e backward pattern matching}
+
 \begin{frame}
 \frametitle{Preliminari - 2 - Strutture dati ausiliarie e backward pattern matching}
 \begin{itemize}
@@ -184,6 +208,8 @@
 	\end{itemize}
 \end{frame}
 
+\section{Costruzione}
+\subsection{Compressione}
 \begin{frame}
 \frametitle{Costruzione- 3 - Compressione}
 	\begin{itemize}
@@ -243,7 +269,7 @@
 		\item I passi \textbf{RLE} e \textbf{PC} devono semplicemente andare a codificare utilizzando meno bit possibili. \pause
 	\end{itemize}
 \end{frame}
-
+\subsection{Pattern Matching}
 \begin{frame}
 \frametitle{Costruzione- 3 - Pattern Matching - 1}
 \begin{itemize}
@@ -258,6 +284,7 @@
 \end{itemize}
 \end{frame}
 %-----------------------Inizio Parte di Raffaele--------------------------------%
+\section{Protocollo}
 \begin{frame}
 \frametitle{Protocollo}
 Il protocollo prevede le seguenti fasi:
@@ -360,6 +387,7 @@ Il protocollo prevede le seguenti fasi:\\
 \textbf{$(5)$ Client:} se $end < begin$ il pattern non è stato trovato, altrimenti l'occorrenza del pattern è $end - begin +1$
 \end{frame}
 %--------------------------------------------------------------------------%
+\section{Analisi}
 \begin{frame}
 \frametitle{Analisi}
 \begin{itemize}
@@ -372,5 +400,8 @@ Il protocollo prevede le seguenti fasi:\\
 \note[itemize]{
 	\item Stringhe della stessa lunghezza dove i caratteri della prima prima stringa possono essere rimpiazzati da quelli della seconda mantenendo l'ordine lessicografico
 }
-
+\begin{frame}
+	\centering
+	\large{Grazie per l'attenzione!}
+\end{frame}
 \end{document}
