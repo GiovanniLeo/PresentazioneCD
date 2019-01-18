@@ -2,9 +2,9 @@
 \beamer@sectionintoc {2}{Introduzione}{6}{0}{2}
 \beamer@sectionintoc {3}{Preliminari}{19}{0}{3}
 \beamer@subsectionintoc {3}{1}{BWT and compression}{20}{0}{3}
-\beamer@subsectionintoc {3}{2}{Strutture dati ausiliarie e backward pattern matching}{29}{0}{3}
-\beamer@sectionintoc {4}{Costruzione}{38}{0}{4}
-\beamer@subsectionintoc {4}{1}{Compressione}{39}{0}{4}
-\beamer@subsectionintoc {4}{2}{Pattern Matching}{59}{0}{4}
-\beamer@sectionintoc {5}{Protocollo}{64}{0}{5}
-\beamer@sectionintoc {6}{Analisi}{74}{0}{6}
+\beamer@subsectionintoc {3}{2}{Strutture dati ausiliarie e backward pattern matching}{37}{0}{3}
+\beamer@sectionintoc {4}{Costruzione}{46}{0}{4}
+\beamer@subsectionintoc {4}{1}{Compressione}{47}{0}{4}
+\beamer@subsectionintoc {4}{2}{Pattern Matching}{72}{0}{4}
+\beamer@sectionintoc {5}{Protocollo}{77}{0}{5}
+\beamer@sectionintoc {6}{Analisi}{87}{0}{6}

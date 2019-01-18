@@ -122,43 +122,43 @@
  \end{itemize}
 \end{frame}
 
-%\begin{frame}
-%\frametitle{Preliminari - 1 - BWT and compression}
-%	\begin{itemize}
-%		\item BWT è solo il primo passo di un algoritmo di compressione, di solito i passi sono: \textit{BWT+\textbf{MTF}+RLE+PC.}\pause
-%		\item \textbf{MTF}(Move to front): Sia T il risultato della BWT, \textit{T=BWT(T)}. C'è una \textit{MTF\_table} contenente tutti i caratteri dell'alfabeto. La tabella mappa i caratteri alla loro relativa posizione nella tabella(per esempio il primo carattere è mappato a ``0''). Dopo aver codificato il primo carattere esso verrà spostato in prima posizione nella \textit{MTF\_Table} quindi tale carattere verrà mappato a ``0''. Sia \textit{Z =MTF(T)} ovvero la stringa codificata dopo aver applicato la MTF a \textit{T}.
-%	\end{itemize}
-%\end{frame}
-%
-%\begin{frame}
-%\frametitle{Preliminari - 1 - BWT and compression}
-%\begin{itemize}
-%	\item BWT è solo il primo passo di un algoritmo di compressione, di solito i passi sono: \textit{BWT+\textbf{MTF}+RLE+PC.}\pause
-%	\item \textbf{Esempio MTF:}
-%	\begin{figure}[H]
-%		\centering
-%		\includegraphics[scale=0.5]{Immagini/MTFExample}
-%	\end{figure}
-%	
-%\end{itemize}
-%\end{frame}
-%
-%\begin{frame}
-%\frametitle{Preliminari - 1 - BWT and compression}
-%\begin{itemize}
-%	\item BWT è solo il primo passo di un algoritmo di compressione, di solito i passi sono: \textit{BWT+MTF+\textbf{RLE}+PC.}\pause
-%	\item \textbf{RLE}(Run Length Encoding): Possiamo applicare RLE per ogni run(sequenza di caratteri tutti uguali) di zero in $ Z $. Per essere più precisi possiamo rimpiazzare $ m $ successivi zeri con il valore binario del numero \textit{(m+1)}, scartando il bit più significativo, in ordine inverso. Inoltre introduciamo altri due caratteri\textit{ \textbf{a}} e \textit{\textbf{b}}  per fare la codifica degli zero. Per esempio 5 zeri vengono codificati come ab. Inoltre il risultato è su di un alfabeto \{\textbf{\textit{a}},\textbf{\textit{b}},1,...,$|\Sigma-1|$\}  dove $|\Sigma|$ indica il numero di caratteri presenti nell'alfabeto.
-%\end{itemize}
-%\end{frame}
-%
-%\begin{frame}
-%\frametitle{Preliminari - 1 - BWT and compression}
-%\begin{itemize}
-%	\item BWT è solo il primo passo di un algoritmo di compressione, di solito i passi sono: \textit{BWT+MTF+RLE+\textbf{PC}.}\pause
-%	\item \textbf{PC}(Variable Length prefix code): Possiamo applicare Variable Length prefix code a questi simboli dell'alfabeto $ \{a,b,1,...,|\Sigma| -1\} $. Codifichiamo \textbf{a}  con 10 e \textbf{b}  con 11. Per gli altri simboli i usiamo $ 1+2* \lfloor log(i+1) \rfloor $  dove  $\lfloor log(i+1) \rfloor$   bit  sono 0 seguiti dal numero (i+1)  nella forma binaria costituita da 1 +  $\lfloor log(i+1) \rfloor$   bit, per esempio 00110 per il simbolo ``5''. Quindi il risultato finale è sull’alfabeto \{0,1\} e denotiamo il risultato finale \textit{BZ = PC(RLE(Z))}.
-%	
-%\end{itemize}
-%\end{frame}
+\begin{frame}
+\frametitle{Preliminari - 1 - BWT and compression}
+	\begin{itemize}
+		\item BWT è solo il primo passo di un algoritmo di compressione, di solito i passi sono: \textit{BWT+\textbf{MTF}+RLE+PC.}\pause
+		\item \textbf{MTF}(Move to front): Sia T il risultato della BWT, \textit{T=BWT(T)}. C'è una \textit{MTF\_table} contenente tutti i caratteri dell'alfabeto. La tabella mappa i caratteri alla loro relativa posizione nella tabella(per esempio il primo carattere è mappato a ``0''). Dopo aver codificato il primo carattere esso verrà spostato in prima posizione nella \textit{MTF\_Table} quindi tale carattere verrà mappato a ``0''. Sia \textit{Z =MTF(T)} ovvero la stringa codificata dopo aver applicato la MTF a \textit{T}.
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Preliminari - 1 - BWT and compression}
+\begin{itemize}
+	\item BWT è solo il primo passo di un algoritmo di compressione, di solito i passi sono: \textit{BWT+\textbf{MTF}+RLE+PC.}\pause
+	\item \textbf{Esempio MTF:}
+	\begin{figure}[H]
+		\centering
+		\includegraphics[scale=0.5]{Immagini/MTFExample}
+	\end{figure}
+	
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Preliminari - 1 - BWT and compression}
+\begin{itemize}
+	\item BWT è solo il primo passo di un algoritmo di compressione, di solito i passi sono: \textit{BWT+MTF+\textbf{RLE}+PC.}\pause
+	\item \textbf{RLE}(Run Length Encoding): Possiamo applicare RLE per ogni run(sequenza di caratteri tutti uguali) di zero in $ Z $. Per essere più precisi possiamo rimpiazzare $ m $ successivi zeri con il valore binario del numero \textit{(m+1)}, scartando il bit più significativo, in ordine inverso. Inoltre introduciamo altri due caratteri\textit{ \textbf{a}} e \textit{\textbf{b}}  per fare la codifica degli zero. Per esempio 5 zeri vengono codificati come ab. Inoltre il risultato è su di un alfabeto \{\textbf{\textit{a}},\textbf{\textit{b}},1,...,$|\Sigma-1|$\}  dove $|\Sigma|$ indica il numero di caratteri presenti nell'alfabeto.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Preliminari - 1 - BWT and compression}
+\begin{itemize}
+	\item BWT è solo il primo passo di un algoritmo di compressione, di solito i passi sono: \textit{BWT+MTF+RLE+\textbf{PC}.}\pause
+	\item \textbf{PC}(Variable Length prefix code): Possiamo applicare Variable Length prefix code a questi simboli dell'alfabeto $ \{a,b,1,...,|\Sigma| -1\} $. Codifichiamo \textbf{a}  con 10 e \textbf{b}  con 11. Per gli altri simboli i usiamo $ 1+2* \lfloor log(i+1) \rfloor $  dove  $\lfloor log(i+1) \rfloor$   bit  sono 0 seguiti dal numero (i+1)  nella forma binaria costituita da 1 +  $\lfloor log(i+1) \rfloor$   bit, per esempio 00110 per il simbolo ``5''. Quindi il risultato finale è sull’alfabeto \{0,1\} e denotiamo il risultato finale \textit{BZ = PC(RLE(Z))}.
+	
+\end{itemize}
+\end{frame}
 
 \subsection{Strutture dati ausiliarie e backward pattern matching}
 
@@ -261,17 +261,17 @@
 		\end{itemize}	 
 	\end{itemize}
 \end{frame}
-%\begin{frame}
-%\frametitle{Costruzione- 3 - Compressione - bMTF - 2}
-%\begin{itemize}
-%	\item Procedimento schematizzato\pause
-%	\begin{itemize}
-%		\item Costruisci blocchi di \textit{L} caratteri a partire dalla stringa \textit{T}\pause
-%		\item Per il blocco i vine prima generata una\\ MTF\_table:$ Perm(key,IV$ or $f(block_{(i-1)}))\rightarrow bMTF\_table_{i} $, dove $ bMTF\_table_{i} $ è una permutazione di tutti i caratteri dell'alfabeto.\pause
-%		\item Segui gli step generali della MTF\pause
-%	\end{itemize}	 
-%\end{itemize}
-%\end{frame}
+\begin{frame}
+\frametitle{Costruzione- 3 - Compressione - bMTF - 2}
+\begin{itemize}
+	\item Procedimento schematizzato\pause
+	\begin{itemize}
+		\item Costruisci blocchi di \textit{L} caratteri a partire dalla stringa \textit{T}\pause
+		\item Per il blocco i vine prima generata una\\ MTF\_table:$ Perm(key,IV$ or $f(block_{(i-1)}))\rightarrow bMTF\_table_{i} $, dove $ bMTF\_table_{i} $ è una permutazione di tutti i caratteri dell'alfabeto.\pause
+		\item Segui gli step generali della MTF\pause
+	\end{itemize}	 
+\end{itemize}
+\end{frame}
 \begin{frame}
 \frametitle{Costruzione- 3 - Compressione }
 	\begin{itemize}
